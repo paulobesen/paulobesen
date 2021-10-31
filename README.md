@@ -1,9 +1,3 @@
-Hello team!
-
-I'm Paulo Besen and I'm a full stack developer. I started my studies in programming in 2009 and I am in constant search for knowledge. <br>
-I'm passionate about .Net and Javascript. I'm currently focused on .Net as the backend and React as the frontend.<br>
-I'm very collaborative, I love teaching, I like to solve problems and develop beautiful applications.
-
 <div align="center"><br>
   <img align="center" alt="prbv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="prbv-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
